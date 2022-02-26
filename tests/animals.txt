@@ -1,0 +1,90 @@
+animal1 attrib1 attrib4 attrib5
+animal2 attrib1 attrib3 attrib4 attrib5 attrib6
+animal3 attrib4 attrib6
+animal4 attrib2 attrib3 attrib6
+animal5 attrib2 attrib3 attrib4 attrib6
+animal6 attrib1 attrib2 attrib3 attrib4 attrib6
+animal7 attrib1 attrib4
+animal8 attrib4
+animal9 attrib3 attrib6
+animal10 attrib2 attrib3 attrib5 attrib7
+animal11 attrib2 attrib4
+animal12 attrib1 attrib3 attrib4
+animal13 attrib2 attrib4 attrib7
+animal14 attrib1 attrib2 attrib3 attrib5 attrib6
+animal15 attrib1 attrib2 attrib3 attrib4 attrib5
+animal16 attrib1 attrib2 attrib4 attrib6
+animal17 attrib2 attrib3 attrib5 attrib6
+animal18 attrib1 attrib3 attrib5 attrib7
+animal19 attrib2 attrib3 attrib4 attrib5 attrib6
+animal20 attrib1 attrib3 attrib5
+animal21 attrib1 attrib3 attrib5 attrib6
+animal22 attrib1 attrib2 attrib4 attrib5 attrib6
+animal23 attrib3 attrib5
+animal24 attrib1
+animal25 attrib2 attrib3 attrib4
+animal26 attrib1 attrib2 attrib4 attrib7
+animal27 attrib2 attrib3 attrib5
+animal28 attrib2 attrib4 attrib5
+animal29 attrib1 attrib3 attrib7
+animal30
+animal31 attrib4 attrib5 attrib6
+animal32 attrib3 attrib4 attrib5 attrib6
+animal33 attrib1 attrib2 attrib4 attrib5
+animal34 attrib1 attrib2 attrib3 attrib4 attrib5 attrib6
+animal35 attrib1 attrib4 attrib7
+animal36 attrib2 attrib5 attrib7
+animal37 attrib2 attrib3 attrib4 attrib5
+animal38 attrib3 attrib4 attrib7
+animal39 attrib4 attrib7
+animal40 attrib1 attrib2 attrib3 attrib4
+animal41 attrib1 attrib3 attrib4 attrib7
+animal42 attrib3 attrib7
+animal43 attrib1 attrib2 attrib3 attrib4 attrib7
+animal44 attrib1 attrib6
+animal45 attrib3 attrib5 attrib7
+animal46 attrib1 attrib4 attrib5 attrib6
+animal47 attrib1 attrib2 attrib3 attrib5
+animal48 attrib1 attrib3 attrib4 attrib6
+animal49 attrib1 attrib2 attrib3 attrib6
+animal50 attrib2 attrib4 attrib5 attrib6
+animal51 attrib3 attrib4 attrib6
+animal52 attrib1 attrib2 attrib5 attrib7
+animal53 attrib1 attrib4 attrib5 attrib7
+animal54 attrib2 attrib3 attrib4 attrib7
+animal55 attrib6
+animal56 attrib3
+animal57 attrib2 attrib5
+animal58 attrib1 attrib3 attrib6
+animal59 attrib1 attrib2 attrib6
+animal60 attrib5 attrib6
+animal61 attrib1 attrib4 attrib6
+animal62 attrib5
+animal63 attrib2 attrib5 attrib6
+animal64 attrib5 attrib7
+animal65 attrib3 attrib4 attrib5
+animal66 attrib2 attrib3 attrib7
+animal67 attrib1 attrib2 attrib3
+animal68 attrib1 attrib2
+animal69 attrib2 attrib7
+animal70 attrib2 attrib4 attrib6
+animal71 attrib4 attrib5
+animal72 attrib1 attrib7
+animal73 attrib3 attrib5 attrib6
+animal74 attrib2
+animal75 attrib7
+animal76 attrib2 attrib3
+animal77 attrib1 attrib2 attrib3 attrib7
+animal78 attrib1 attrib3
+animal79 attrib1 attrib3 attrib4 attrib5
+animal80 attrib1 attrib2 attrib5 attrib6
+animal81 attrib1 attrib5 attrib6
+animal82 attrib3 attrib4
+animal83 attrib1 attrib2 attrib7
+animal84 attrib4 attrib5 attrib7
+animal85 attrib1 attrib2 attrib4
+animal86 attrib1 attrib5 attrib7
+animal87 attrib1 attrib2 attrib3 attrib5 attrib7
+animal88 attrib1 attrib5
+animal89 attrib2 attrib6
+animal90 attrib1 attrib2 attrib5
